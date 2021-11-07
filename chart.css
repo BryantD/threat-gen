@@ -1,0 +1,24 @@
+div.threatrow {
+  clear: both;
+  padding-top: 5px;
+  }
+
+div.threatrow span.threatlabel {
+  float: left;
+  width: 18%;
+  text-align: right;
+  }
+
+div.threatrow span.threatformw {
+  float: right;
+  width: 80%;
+  text-align: left;
+  } 
+
+td.threattable {
+  padding: 0 7px 0 7px;
+}
+
+div.spacer {
+  clear: both;
+  }
